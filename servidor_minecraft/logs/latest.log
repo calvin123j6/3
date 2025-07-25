@@ -10951,3 +10951,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Jul2025 23:16:37.456] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [25Jul2025 23:16:40.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
 [25Jul2025 23:17:00.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4655ms or 93 ticks behind
+[25Jul2025 23:47:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Knight Quest]
+[25Jul2025 23:47:43.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[25Jul2025 23:48:00.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[25Jul2025 23:50:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Knight Quest]
+[25Jul2025 23:53:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton

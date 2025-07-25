@@ -1344,5 +1344,11 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-07-25 23:50:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
