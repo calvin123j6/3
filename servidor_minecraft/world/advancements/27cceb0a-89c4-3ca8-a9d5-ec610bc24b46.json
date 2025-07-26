@@ -850,6 +850,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-12 19:04:05 +0000",
       "entered_stables": "2025-01-18 23:51:42 +0000",
+      "entered_hay_storage": "2025-07-26 02:00:21 +0000",
       "entered_pirate_ship": "2025-01-12 17:53:54 +0000",
       "entered_fishing_ship": "2025-07-24 20:20:45 +0000",
       "entered_druid_circle": "2025-01-16 23:08:44 +0000",
@@ -1353,9 +1354,9 @@
     },
     "done": true
   },
-  "rottencreatures:root": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
+      "ex": "2025-07-26 00:51:05 +0000"
     },
     "done": true
   },
@@ -1365,15 +1366,21 @@
     },
     "done": true
   },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:kill_all_rot": {
     "criteria": {
       "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "ex": "2025-07-26 00:51:05 +0000"
+      "acacia_blossom": "2025-07-26 02:05:22 +0000"
     },
     "done": true
   },
