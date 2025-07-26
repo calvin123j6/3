@@ -518,6 +518,7 @@
       "minecraft:creeper": "2025-01-09 21:24:06 +0000",
       "minecraft:slime": "2025-07-24 22:39:09 +0000",
       "minecraft:phantom": "2025-02-06 21:53:43 +0000",
+      "minecraft:witch": "2025-07-26 01:50:30 +0000",
       "minecraft:husk": "2025-07-24 22:47:41 +0000",
       "minecraft:cave_spider": "2025-01-17 19:50:20 +0000",
       "minecraft:stray": "2025-01-17 01:45:56 +0000",
@@ -786,7 +787,8 @@
     "criteria": {
       "swamp_village": "2025-01-18 01:32:06 +0000",
       "pillager_outpost": "2025-01-17 00:56:48 +0000",
-      "illager_camp": "2025-01-10 01:52:31 +0000"
+      "illager_camp": "2025-01-10 01:52:31 +0000",
+      "mangrove_witch_hut": "2025-07-26 01:50:16 +0000"
     },
     "done": false
   },
@@ -1351,11 +1353,23 @@
     },
     "done": true
   },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-07-26 00:53:46 +0000"
     },
     "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:swampy": "2025-07-26 01:50:57 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {

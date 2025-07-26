@@ -11080,3 +11080,44 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [26Jul2025 01:16:40.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
 [26Jul2025 01:17:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [26Jul2025 01:17:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[26Jul2025 01:21:26.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:60637] logged in with entity id 24889 at (-199.90575242386424, 62.30279370512114, -3391.26592999205)
+[26Jul2025 01:21:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[26Jul2025 01:21:26.679] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[26Jul2025 01:24:30.924] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[26Jul2025 01:24:59.327] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for minecraft:witch! Mob is registered as MONSTER, but spawning as CREATURE. Report this to the author of Minecraft.
+[26Jul2025 01:25:36.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-434, y=56, z=-3552} but found not block entity block Block{minecraft:air} at location
+[26Jul2025 01:25:36.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-434, y=56, z=-3552}
+[26Jul2025 01:27:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:27:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[26Jul2025 01:29:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:29:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[26Jul2025 01:33:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:33:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[26Jul2025 01:38:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[26Jul2025 01:39:10.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-278, y=65, z=-3081} BlockPos{x=-277, y=64, z=-3081}
+[26Jul2025 01:39:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Teleported kevin123j2 to Jos3enriq]
+[26Jul2025 01:39:58.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Spectator Mode]
+[26Jul2025 01:40:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:40:45.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v<--[HERE]
+[26Jul2025 01:41:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:41:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[26Jul2025 01:42:16.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! -5.444504590896685,0.0,-9.429243405005309
+[26Jul2025 01:42:16.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[26Jul2025 01:42:59.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Survival Mode]
+[26Jul2025 01:44:33.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Teleported Jos3enriq to kevin123j2]
+[26Jul2025 01:44:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> w
+[26Jul2025 01:49:41.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=63, z=-2871} BlockPos{x=-184, y=61, z=-2871}
+[26Jul2025 01:49:49.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=65, z=-2863} BlockPos{x=-175, y=63, z=-2862}
+[26Jul2025 01:49:50.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=65, z=-2863} BlockPos{x=-175, y=63, z=-2862}
+[26Jul2025 01:49:50.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=65, z=-2862} BlockPos{x=-175, y=63, z=-2862}
+[26Jul2025 01:50:06.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/38915, l='ServerLevel[world]', x=38.75, y=82.83, z=-2912.23]
+[26Jul2025 01:50:08.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=-2825} BlockPos{x=-137, y=63, z=-2824}
+[26Jul2025 01:50:09.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=-2825} BlockPos{x=-137, y=63, z=-2824}
+[26Jul2025 01:50:09.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=65, z=-2824} BlockPos{x=-135, y=63, z=-2823}
+[26Jul2025 01:50:50.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:50:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
+[26Jul2025 01:52:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jul2025 01:52:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v<--[HERE]
+[26Jul2025 01:55:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [The Twelve Labors of Hercules]
+[26Jul2025 02:00:26.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Cyclops
+[26Jul2025 02:00:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [Flowers of the Savanna]

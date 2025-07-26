@@ -701,6 +701,7 @@
       "swamp_village": "2025-01-18 01:32:04 +0000",
       "pillager_outpost": "2025-01-16 23:36:29 +0000",
       "illager_camp": "2025-01-08 18:51:33 +0000",
+      "mangrove_witch_hut": "2025-07-26 01:50:21 +0000",
       "mansion": "2025-01-09 18:55:41 +0000"
     },
     "done": false
@@ -1535,6 +1536,12 @@
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-07-26 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-26 01:55:09 +0000"
     },
     "done": true
   },
