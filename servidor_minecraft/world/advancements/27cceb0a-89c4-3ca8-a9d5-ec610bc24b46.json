@@ -310,6 +310,7 @@
       "minecraft:cold_ocean": "2025-01-12 02:08:03 +0000",
       "minecraft:forest": "2025-01-08 14:47:49 +0000",
       "atmospheric:atmospheric:sparse_rainforest_basin": "2025-02-07 02:09:23 +0000",
+      "minecraft:lush_caves": "2025-07-27 01:44:27 +0000",
       "environmental:environmental:pine_barrens": "2025-01-17 02:10:52 +0000",
       "minecraft:deep_cold_ocean": "2025-01-18 20:45:39 +0000",
       "minecraft:ice_spikes": "2025-01-17 00:49:37 +0000",
@@ -393,7 +394,8 @@
     "criteria": {
       "sandy_dirt": "2025-01-09 20:45:55 +0000",
       "dirt": "2025-01-08 14:53:47 +0000",
-      "silt": "2025-01-21 22:55:58 +0000"
+      "silt": "2025-01-21 22:55:58 +0000",
+      "earthen_clay": "2025-07-26 21:04:18 +0000"
     },
     "done": false
   },
@@ -418,6 +420,7 @@
       "cooked_beef": "2025-01-08 19:20:35 +0000",
       "mutton": "2025-01-18 19:52:44 +0000",
       "cooked_chicken": "2025-01-08 15:01:04 +0000",
+      "abnormals_delight:mutton_wrap": "2025-07-27 01:45:40 +0000",
       "cooked_mutton": "2025-01-08 18:47:34 +0000",
       "apple": "2025-01-08 15:07:55 +0000",
       "abnormals_delight:barbecue_stick": "2025-07-25 00:21:07 +0000",
@@ -427,6 +430,7 @@
       "autumnity:pumpkin_bread": "2025-01-09 19:40:26 +0000",
       "neapolitan:banana": "2025-01-12 19:04:52 +0000",
       "cookie": "2025-07-24 23:09:28 +0000",
+      "neapolitan:vanilla_fudge": "2025-07-26 22:06:34 +0000",
       "potato": "2025-01-18 00:34:06 +0000",
       "abnormals_delight:bacon_and_eggs": "2025-01-13 02:14:33 +0000",
       "bread": "2025-01-09 23:53:47 +0000",
@@ -1381,6 +1385,66 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-07-26 02:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-26 21:52:38 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-26 21:54:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-26 22:06:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-26 22:08:56 +0000"
+    },
+    "done": true
+  },
+  "conjurer_illager:find_theatre": {
+    "criteria": {
+      "in_theater": "2025-07-26 22:42:40 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-07-27 00:02:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-07-27 00:26:13 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-07-27 01:03:28 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2025-07-27 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-07-27 02:49:40 +0000"
     },
     "done": true
   },

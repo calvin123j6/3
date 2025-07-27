@@ -455,6 +455,7 @@
       "abnormals_delight:cabbage": "2025-02-03 20:19:06 +0000",
       "pumpkin_pie": "2025-01-08 21:20:30 +0000",
       "golden_carrot": "2025-01-08 20:40:00 +0000",
+      "atmospheric:orange": "2025-07-27 01:31:45 +0000",
       "enchanted_golden_apple": "2025-01-16 00:18:32 +0000",
       "honey_bottle": "2025-01-08 21:28:59 +0000",
       "cookie": "2025-01-11 01:46:33 +0000",
@@ -468,6 +469,7 @@
       "abnormals_delight:pumpkin_slice": "2025-01-10 00:59:21 +0000",
       "glow_berries": "2025-02-04 18:54:49 +0000",
       "salmon": "2025-01-16 01:42:00 +0000",
+      "quark:crab_leg": "2025-07-26 22:16:08 +0000",
       "environmental:cooked_venison": "2025-01-17 19:20:18 +0000",
       "sweet_berries": "2025-01-17 18:36:09 +0000",
       "cooked_cod": "2025-01-12 01:31:33 +0000",
@@ -728,6 +730,7 @@
       "entered_fishing_ship": "2025-07-24 20:20:48 +0000",
       "entered_deep_crypt": "2025-01-16 01:40:28 +0000",
       "entered_druid_circle": "2025-01-17 00:31:42 +0000",
+      "entered_large_dungeon": "2025-07-26 22:56:46 +0000",
       "entered_castle": "2025-01-24 21:16:47 +0000",
       "entered_watch_tower": "2025-01-17 22:19:41 +0000",
       "entered_tree_house": "2025-02-07 20:31:30 +0000",
@@ -1048,7 +1051,9 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_0": "2025-01-12 23:25:18 +0000"
+      "charm_collector_1": "2025-07-26 21:04:46 +0000",
+      "charm_collector_0": "2025-01-12 23:25:18 +0000",
+      "charm_collector_2": "2025-07-26 21:05:32 +0000"
     },
     "done": false
   },
@@ -1541,15 +1546,99 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-26 01:55:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-07-26 02:00:33 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_hydra": {
+  "rottencreatures:root": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-26 01:55:09 +0000"
+      "rottencreatures:undead_miner": "2025-07-26 20:02:23 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-07-26 20:02:23 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-26 20:41:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-26 21:01:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-26 21:04:37 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-07-26 21:41:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-26 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2025-07-26 22:37:27 +0000"
+    },
+    "done": true
+  },
+  "conjurer_illager:find_theatre": {
+    "criteria": {
+      "in_theater": "2025-07-26 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-07-26 22:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-27 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-07-27 02:05:40 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-07-27 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-07-27 02:41:13 +0000"
     },
     "done": true
   },
